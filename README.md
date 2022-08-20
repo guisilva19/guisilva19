@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/guisilva19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisilva19&show_icons=true&theme=colored&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisilva19&layout=compact&langs_count=7&theme=colored"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
