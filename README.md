@@ -1,3 +1,4 @@
+<body background="white">
 ## Olá, Tudo bem? Me chamo Guilherme 😄
 
 #### - 💼 Em busca de uma oportunidade profissional como Desenvolvedor Web
@@ -25,3 +26,4 @@
 </div>
 
 ![snake gif](https://github.com/guisilva19/guisilva19/blob/output/github-contribution-grid-snake.svg)
+ <body/>
