@@ -25,3 +25,4 @@
 </div>
 
 ![snake gif](https://github.com/guisilva19/guisilva19/blob/output/github-contribution-grid-snake.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guisilva19.guisilva19)
