@@ -1,9 +1,11 @@
 
-## Olá, Tudo bem? Me chamo Guilherme 😄
+## Olá, Eu sou Guilherme 😄
 
-#### - 💼 Em busca de uma oportunidade profissional como Desenvolvedor Web
-#### - 💬 Sempre estudando em busca de me aprimorar cada vez mais
-#### - ⚡ Em busca sempre de mais conhecimento 
+<div>
+  <a href="https://github.com/guisilva19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisilva19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisilva19&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div margin-bottom="50px">
   <img align="center" alt="Gui-JavaScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
