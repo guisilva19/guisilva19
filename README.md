@@ -44,6 +44,7 @@ Tenho foco em **boas práticas ágeis**, além de estar sempre explorando novas 
 
 ## 📊 Estatísticas no GitHub  
 
+![Snake animation](https://github.com/guisilva19/guisilva19/blob/output/snake-dark.svg)
 
 ---
 
