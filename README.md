@@ -8,10 +8,17 @@
 
 ## 🚀 Sobre mim  
 
-Sou **Desenvolvedor Full Stack** com experiência em aplicações modernas para web e mobile.  
-Apaixonado por **tecnologia, inovação e performance**, busco sempre unir **design intuitivo**, **código limpo** e **boas práticas de arquitetura** para entregar soluções **escaláveis e de alta qualidade**.  
+Desenvolvedor Full Stack com sólida experiência na criação de soluções digitais de ponta a ponta. Atualmente cursando Ciência da Computação, combino a base teórica acadêmica com a prática ágil do mercado.
 
-Tenho foco em **boas práticas ágeis**, além de estar sempre explorando novas ferramentas que agreguem valor ao produto final.  
+Minha expertise técnica inclui:
+
+Front-end: Interfaces escaláveis e de alta performance com React.js, Next.js, React Native e Tailwind CSS.
+
+Back-end: Construção de APIs RESTful robustas utilizando Node.js, NestJS e Express.
+
+Infraestrutura: Práticas de DevOps com Docker e integração de bancos relacionais (PostgreSQL/MySQL) e não relacionais (MongoDB).
+
+Foco em entregar código limpo e arquiteturas que facilitam a manutenção e o crescimento do produto.
 
 ---
 
