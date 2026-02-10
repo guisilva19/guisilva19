@@ -47,6 +47,13 @@ Foco em entregar código limpo e arquiteturas que facilitam a manutenção e o c
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+### Arquitetura & Boas Práticas
+![SOLID](https://img.shields.io/badge/SOLID-Principles-333333?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Code%20Quality-2E7D32?style=flat-square)
+![Separation of Concerns](https://img.shields.io/badge/Separation%20of%20Concerns-Architecture-1565C0?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Software%20Design-6A1B9A?style=flat-square)
+
+
 ---
 
 ## 📊 Estatísticas no GitHub  
