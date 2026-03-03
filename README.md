@@ -3,12 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Silva-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesilvafernandes/)](https://www.linkedin.com/in/guilhermesilvafernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-2003silvagui@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2003silvagui@gmail.com)](mailto:2003silvagui@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://contate.me/guisilvadev)](https://contate.me/guisilvadev)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://guidev-seven.vercel.app/)
 
 ---
 
 ## 🚀 Sobre mim  
 
 Desenvolvedor Full Stack com sólida experiência na criação de soluções digitais de ponta a ponta. Atualmente cursando Ciência da Computação, combino a base teórica acadêmica com a prática ágil do mercado.
+
+🌐 **Portfólio:** https://guidev-seven.vercel.app/
 
 Minha expertise técnica inclui:
 
