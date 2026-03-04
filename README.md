@@ -59,12 +59,6 @@ Foco em entregar código limpo e arquiteturas que facilitam a manutenção e o c
 
 ---
 
-## 📊 Estatísticas no GitHub  
-
-![Snake animation](https://github.com/guisilva19/guisilva19/blob/output/snake-dark.svg)
-
----
-
 <p align="center">
   <i>"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software seguindo uma lista de padrões.  
   Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."</i>  
